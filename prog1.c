@@ -2,10 +2,7 @@
 
 void printhello(int n){
   int x = 50;
-  printf("Hello world\n");
-  if(x > n) {
-   printhello(n);
-  }
+  
 }
 
 void main()
